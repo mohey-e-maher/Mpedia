@@ -27,7 +27,7 @@
     background-image:url("../media/wallpaper22.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-size:cover;
+    background-size:contain;
     color: white;
     flex-wrap:wrap;
 
